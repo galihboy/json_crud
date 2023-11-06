@@ -1,0 +1,22 @@
+[
+  {
+    "nama": "Fulan Fulanah",
+    "usia": 30,
+    "alamat": {
+      "jalan": "Jl. Jendral Sudirman No. 1",
+      "kota": "Bandung",
+      "provinsi": "Jawa Barat"
+    },
+    "hobi": ["Membaca", "Menulis", "Bermain Gitar"]
+  },
+  {
+    "nama": "Asep",
+    "usia": 25,
+    "alamat": {
+      "jalan": "Jl. Medan Merdeka Barat No. 1",
+      "kota": "Jakarta",
+      "provinsi": "DKI Jakarta"
+    },
+    "hobi": ["Olahraga", "Memasak", "Wisata"]
+  }
+]
